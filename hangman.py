@@ -1,2 +1,3 @@
 while True:
-	pass
+	False
+some line
