@@ -18,3 +18,5 @@ cd
 cd
 
 kolos
+
+tkakekr
