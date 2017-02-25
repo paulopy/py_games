@@ -11,12 +11,10 @@ line line
 noinononnonnnonnnnn
 4cdc
 
-cd 
 cd
 cd 
+cd
+cd
+cd
 
-
-cd 
-cd
-cd
-cd
+kolos
